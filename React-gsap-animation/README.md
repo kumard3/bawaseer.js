@@ -1,6 +1,6 @@
 # React Gsap Animation component 
 
-> testing lib
+> testing the componemt
 
 [![NPM](https://img.shields.io/npm/v/test2.svg)](https://www.npmjs.com/package/test2) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
